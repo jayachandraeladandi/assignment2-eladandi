@@ -14,6 +14,10 @@ INDIRA GANDHI INTERNATIONAL AIRPORT is closest to the museum
 8. from there auto will be avaliable to Jawaharlal Nehru Marg.
 7. museum will be exactly opposite to the Jawaharlal Nehru Marg busstop.
 
-*
+* i would like to recommend to visit india gate near the museum.
+* mostly redfort is very beautiful which is builded in 17th century so i recommend to vist.
+* Akshardham is a famous temple ,over 11,000 artisans worked on this so i would recommend to vist that temple
+* Gurudwara is a famous place in delhi to visit.
+***
 
 
