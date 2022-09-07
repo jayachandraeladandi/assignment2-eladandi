@@ -29,7 +29,12 @@ The Table consists of City names,there important locations to visit and the amou
 |Vijayawada|Prakasam Barrage|3 Hours               |
 |Delhi|Tajmahal|6 Hours               |
 |Vizag| Rushikonda Beach|4 Hours               |
-              
+
+***
+# Quotes
+> We generally change ourselves for one of two reasons: inspiration or desperation. _JimRohn_
+
+> The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience._Walt Disney_
               
 
 
