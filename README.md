@@ -21,4 +21,16 @@ INDIRA GANDHI INTERNATIONAL AIRPORT is closest to the museum
 ***
 [Jayachandra](AboutMe.md)
 
+# Top Four Cities To Visit
+The Table consists of City names,there important locations to visit and the amount of time to spend visiting the important location.
+|CityName       |Imporatant Location        |Time to Spend         |
+|---    |---     |---      |
+|Hyderabad|Golconda Fort|4 hours               |
+|Vijayawada|Prakasam Barrage|3 Hours               |
+|Delhi|Tajmahal|6 Hours               |
+|Vizag| Rushikonda Beach|4 Hours               |
+              
+              
+
+
 

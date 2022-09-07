@@ -1,3 +1,3 @@
 # JAYACHANDRA SAI ELADANDI
-I have done my undergraduation in Electrical and electronics engineering ,in my final semester i have done mini project named safety helmet ,which is very useful in mines and major project i have done automatic speed breaker to fallow the rules and to avoid accidents ,here i got intrest towards theh technology and i planned to pursue my masters in Computer Science
+I have done my undergraduation in Electrical and Electronics Engineering. In my final semester, I have done a mini project named Safety Helmet, which is very useful in mines and a major project about Automatic Speed Breaker, to follow the rules and to avoid accidents. Here I got interest towards technology and I planned to pursue my Masters in Computer Science.
 ![Jayachandra](IMG_20220905_004319.jpg)
