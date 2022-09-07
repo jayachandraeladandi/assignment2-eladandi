@@ -35,7 +35,21 @@ The Table consists of City names,there important locations to visit and the amou
 > We generally change ourselves for one of two reasons: inspiration or desperation. _JimRohn_
 
 > The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience._Walt Disney_
-              
 
+***
+# Code Fencing
 
+> How to anchor an element to the correct position on a responsive image
 
+<https://stackoverflow.com/questions/73628818/how-to-anchor-an-element-to-the-correct-position-on-a-responsive-image>
+
+``` 
+:root {
+  --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.element {
+  font-family: var(--system-ui);
+}
+```
+<https://css-tricks.com/snippets/css/system-font-stack/>
